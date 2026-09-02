@@ -1,37 +1,35 @@
-   <h1>Creating Tickets</h1>
+   <h1>ServiceNow Walkthrough</h1>
 
 <h2>Description</h2>
-Built a Windows Server domain controller and client environment in VirtualBox, configured DNS/NAT/DHCP, and automated bulk user provisioning with PowerShell.
+This lab covers core ServiceNow IT service management workflows from an IT support analyst perspective: creating and provisioning login IDs with role-based access, configuring Help Desk Analyst roles (Tier 1 & Tier 2), managing incidents/tickets, building filters for assignment groups, routing tickets to the correct support teams, resolving tickets as a Tier 1 analyst, logging phone-in trouble tickets, and generating reports on ticket activity.
 <br />
 
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Scenario 1</h2>
+<h2>Account Setup</h2>
 
 <p>
-Incident: A user, Annabelle Coger, contacted the Help Desk reporting that Outlook had stopped receiving new emails to her inbox. The issue was logged as a new incident (INC0010001)<br/>
-   
-Response: i opened a new ticket, i then noted down the name of the name of the person who had the problem in the caller field (Annbelle Coger), then i filled out the givin informastion aboutr the ticket at follwed, she called to have an issue resolved the catogory would be inquiry / help making sure to note the nature of the issue being email, speciofiacally her outlook. 
-<img width="1918" height="826" alt="Creating Ticket" src="https://github.com/user-attachments/assets/721d4c3a-e9b4-416f-ae06-8a1379d9997c"/>
+Used admin privileges to create a personal user account, then filled the requird fields with account credentiials.<br/>
+<img width="1601" height="567" alt="Screenshot 2026-09-01 223518" src="https://github.com/user-attachments/assets/8d4a72a4-403b-48e3-87f6-15eca284eb56" />
+<br />
 <br />
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps" align="center" />
-
+<img width="1597" height="804" alt="Screenshot 2026-09-01 223540" src="https://github.com/user-attachments/assets/b8d4bdf8-4cf7-4477-974a-9d5fe6a6a878" />
+<br />
 <br />
 <br />
 Confirm your selection:  <br/>
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<br />
 Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
+<br />
 Sanitization complete:  <br/>
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
 <br />
 <br />
 Observe the wiped disk:  <br/>

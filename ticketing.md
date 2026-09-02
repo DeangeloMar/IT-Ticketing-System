@@ -14,6 +14,7 @@ Used admin privileges to create a personal user account, then filled the require
 <br />
 For my account to be able to have basic helpdesk functionality, i would need to assign my newly created account to a assignment group (Help Desk), which grants me access to roles assign to that given group, such as creating tickets.<br/>
 <img width="1597" height="804" alt="Screenshot 2026-09-01 223540" src="https://github.com/user-attachments/assets/b8d4bdf8-4cf7-4477-974a-9d5fe6a6a878" />
+Account assigned to assignment group.<br/>
 <img width="1592" height="259" alt="image" src="https://github.com/user-attachments/assets/eaa577df-1df4-4cec-a300-06f5aa47af64" />
 <br />
 <br />

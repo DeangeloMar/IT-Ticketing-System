@@ -17,7 +17,7 @@ For my account to be able to have basic helpdesk functionality, i would need to 
 <br />
 <br />
 <br />
-Account assigned to assignment group.<br/>
+Account successfully assigned to assignment group.<br/>
 <img width="1592" height="259" alt="image" src="https://github.com/user-attachments/assets/eaa577df-1df4-4cec-a300-06f5aa47af64" />
 <br />
 <br />

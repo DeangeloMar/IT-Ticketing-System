@@ -7,7 +7,7 @@ This lab covers core ServiceNow IT service management workflows from an IT suppo
 <h2>Account Setup</h2>
 
 <p>
-Used admin privileges to create a personal user account, then filled the requird fields with account credentiials.<br/>
+Used admin privileges to create a personal user account, then filled the required fields with my account credentials.<br/>
 <img width="1601" height="567" alt="Screenshot 2026-09-01 223518" src="https://github.com/user-attachments/assets/8d4a72a4-403b-48e3-87f6-15eca284eb56" />
 <br />
 <br />

@@ -12,7 +12,7 @@ Used admin privileges to create a personal user account, then filled the requird
 <br />
 <br />
 <br />
-Enter the number of passes: <br/>
+For my account to be able to have basic functionality, i would need to assign my newly created account to a assignment group (Help Desk), which grants me access to roles assign to that given group, such as creating tickets.<br/>
 <img width="1597" height="804" alt="Screenshot 2026-09-01 223540" src="https://github.com/user-attachments/assets/b8d4bdf8-4cf7-4477-974a-9d5fe6a6a878" />
 <br />
 <br />

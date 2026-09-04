@@ -21,7 +21,7 @@ Assigned to assignment group.<br/>
 <br />
 <br />
    
-<h2>Changing Assignment Groups and Routing tickets to correct support groups</h2>
+<h2>Routing unassigned tickets (Assignment Groups)</h2>
 
 <img width="1600" height="796" alt="Screenshot 2026-09-03 204226" src="https://github.com/user-attachments/assets/d7cdad2c-d7ca-4beb-b123-1ec3c4a33299" />
 <br />
@@ -35,5 +35,48 @@ Sanitization complete:  <br/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="1601" height="798" alt="image" src="https://github.com/user-attachments/assets/08e2e9d5-388b-477b-9056-078749cd4358" />
+
+<h2>Routing unassigned tickets (Assignment Groups)</h2>
+
+<img width="1597" height="223" alt="image" src="https://github.com/user-attachments/assets/3fc8012d-bae4-4b7b-a61f-9226c12e801e" />
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img width="1601" height="498" alt="image" src="https://github.com/user-attachments/assets/ecdad5ab-129f-4ad6-bdca-734fe30dc0f3" />
+<br />
+<br />
+Sanitization complete:  <br/>
+<img width="1600" height="439" alt="image" src="https://github.com/user-attachments/assets/854530d1-4b62-4d49-9a54-5ced6d7f1423" />
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img width="1597" height="240" alt="image" src="https://github.com/user-attachments/assets/93dc166d-a54b-4296-a240-f6b5ab8e0a81" />
+
+<h2>creating ticket</h2>
+
+<img width="1596" height="233" alt="image" src="https://github.com/user-attachments/assets/30ec833d-df80-4659-ac23-1e14080b972b" />
+<br />
+<br />
+<img width="1597" height="223" alt="image" src="https://github.com/user-attachments/assets/3fc8012d-bae4-4b7b-a61f-9226c12e801e" />
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img width="1601" height="237" alt="image" src="https://github.com/user-attachments/assets/6267693f-460d-4bc0-8d3b-bb9e56884d78" />
+<br />
+<br />
+Sanitization complete:  <br/>
+<img width="1600" height="439" alt="image" src="https://github.com/user-attachments/assets/854530d1-4b62-4d49-9a54-5ced6d7f1423" />
+<br />
+<br />
+Observe the wiped disk:  <br/>
+<img width="1597" height="240" alt="image" src="https://github.com/user-attachments/assets/93dc166d-a54b-4296-a240-f6b5ab8e0a81" />
+
+<h2>resolving tickets</h2>
+
+<img width="1595" height="773" alt="image" src="https://github.com/user-attachments/assets/16cbb758-da6f-42eb-abb7-1096bbc1decd" />
+<br />
+<br />
+Wait for process to complete (may take some time):  <br/>
+<img width="1601" height="411" alt="image" src="https://github.com/user-attachments/assets/15869b93-2623-430c-a6a9-11ba5d598425" />
 </p>

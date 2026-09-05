@@ -25,10 +25,12 @@ Go back to the list of users and select the account you just created. There's a 
 <br />
 Select Help Desk, then click Add, then Save:<br/>
 <img width="1918" height="909" alt="image" src="https://github.com/user-attachments/assets/91891d1d-1a58-4950-91ef-dc6078a689ec" />
+<br />
 <img width="1597" height="804" alt="image" src="https://github.com/user-attachments/assets/0c17f442-9510-4477-b7fc-d10743890a94" />
 <br />
 <br />
 Assigned to assignment group.<br/>
-<img width="1592" height="259" alt="image" src="https://github.com/user-attachments/assets/eaa577df-1df4-4cec-a300-06f5aa47af64" />
-<img width="1598" height="859" alt="Screenshot 2026-09-03 182807" src="https://github.com/user-attachments/assets/fe421efd-4173-4897-a504-795d396e6b89" />
+<img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/4df8437f-3811-4302-b4e2-d239ca39b154" />
+<br />
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/9a1772f1-3e13-42b1-8d7b-a1a863fadf67" />
 </p>

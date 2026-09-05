@@ -29,8 +29,10 @@ Select Help Desk, then click Add, then Save:<br/>
 <img width="1597" height="804" alt="image" src="https://github.com/user-attachments/assets/0c17f442-9510-4477-b7fc-d10743890a94" />
 <br />
 <br />
-Assigned to assignment group.<br/>
+Confirm the Help Desk group has been added successfully:<br/>
 <img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/4df8437f-3811-4302-b4e2-d239ca39b154" />
 <br />
+<br />
+Note: Assigning the account to Help Desk grants access to the roles assigned to that group (as shown in the image below). This gives the account basic help desk functionality.<br />
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/9a1772f1-3e13-42b1-8d7b-a1a863fadf67" />
 </p>

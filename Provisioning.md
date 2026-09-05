@@ -23,8 +23,9 @@ Go back to the list of users and select the account you just created. There's a 
 <img width="1917" height="911" alt="image" src="https://github.com/user-attachments/assets/7cbd6ae0-07d8-44d5-a799-8c86aa880c98" />
 <br />
 <br />
-assign the newly created account to an assignment group (Help Desk), which grants access to the roles assigned to that group For the account, this allows it to have basic help desk functionality.<br/>
-<img width="1597" height="804" alt="Screenshot 2026-09-01 223540" src="https://github.com/user-attachments/assets/b8d4bdf8-4cf7-4477-974a-9d5fe6a6a878" />
+Select Help Desk, then click Add, then Save:<br/>
+<img width="1918" height="909" alt="image" src="https://github.com/user-attachments/assets/91891d1d-1a58-4950-91ef-dc6078a689ec" />
+<img width="1597" height="804" alt="image" src="https://github.com/user-attachments/assets/0c17f442-9510-4477-b7fc-d10743890a94" />
 <br />
 <br />
 Assigned to assignment group.<br/>

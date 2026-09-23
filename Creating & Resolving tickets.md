@@ -27,9 +27,11 @@ Observe new ticket:  <br/>
 
 <h2>resolving tickets</h2>
 
-<img width="1595" height="773" alt="image" src="https://github.com/user-attachments/assets/16cbb758-da6f-42eb-abb7-1096bbc1decd" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/05426e9c-7edb-4960-8285-25d99b4fdc5b" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8340e697-b2e0-4864-be52-bcfed8bdacf4" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/df714311-4f55-4210-a583-e351fb9c37b8" />
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img width="1601" height="411" alt="image" src="https://github.com/user-attachments/assets/15869b93-2623-430c-a6a9-11ba5d598425" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0758e32d-5d4e-4417-98d8-1b2c33c0aa2f" />
 </p>

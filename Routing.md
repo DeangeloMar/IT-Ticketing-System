@@ -15,15 +15,15 @@ Select the ticket you wish to assign to an assignment group:  <br/>
 <br />
 <br />
 Assign the ticket to an assignment group, then leave a work note at the bottom (explains what changes were made to the ticket):  <br/>
-<img width="1598" height="725" alt="Screenshot 2026-09-03 205203" src="https://github.com/user-attachments/assets/11d00069-f14a-4215-ae7a-2b3634ad7d48" />
+<img width="1568" height="711" alt="image" src="https://github.com/user-attachments/assets/0d26c62e-1aae-493f-86bf-2fbc8b354733" />
 <br />
 <br />
-observe changes:  <br/>
-<img width="1602" height="834" alt="Screenshot 2026-09-03 205525" src="https://github.com/user-attachments/assets/7ccd3c1c-10f0-4c56-ac5b-2f23e426ee81" />
+save:  <br/>
+<img width="1568" height="711" alt="image" src="https://github.com/user-attachments/assets/2714afdf-add7-4fc8-bf88-5db2b60b8748" />
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img width="1601" height="798" alt="image" src="https://github.com/user-attachments/assets/08e2e9d5-388b-477b-9056-078749cd4358" />
+Observe changes:  <br/>
+<img width="1601" height="798" alt="image" src="https://github.com/user-attachments/assets/7cfec542-3e25-49a6-b090-896992212001" />
 
 <h2>Routing unassigned tickets (Users)</h2>
 

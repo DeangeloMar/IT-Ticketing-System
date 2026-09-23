@@ -1,7 +1,7 @@
    <h1>Ticket creation and remediation</h1>
 
 <h2>Description</h2>
-This lab covers core ServiceNow IT service management workflows from an IT support analyst perspective: creating and provisioning login IDs with role-based access, configuring Help Desk Analyst roles (Tier 1 & Tier 2), managing incidents/tickets, building filters for assignment groups, routing tickets to the correct support teams, resolving tickets as a Tier 1 analyst, logging phone-in trouble tickets, and generating reports on ticket activity.
+Step-by-step guide for creating and Resolving troubled tickets.
 <br />
 
 <p>

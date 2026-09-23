@@ -21,7 +21,7 @@ Sanitization complete:  <br/>
 <img width="1600" height="439" alt="image" src="https://github.com/user-attachments/assets/854530d1-4b62-4d49-9a54-5ced6d7f1423" />
 <br />
 <br />
-Observe the wiped disk:  <br/>
+Observe new ticket:  <br/>
 <img width="1597" height="240" alt="image" src="https://github.com/user-attachments/assets/93dc166d-a54b-4296-a240-f6b5ab8e0a81" />
 
 <h2>resolving tickets</h2>

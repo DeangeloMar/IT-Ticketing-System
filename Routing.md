@@ -19,7 +19,7 @@ Assign the ticket to an assignment group, then leave a work note at the bottom (
 <br />
 <br />
 save:  <br/>
-<img width="1568" height="711" alt="image" src="https://github.com/user-attachments/assets/2714afdf-add7-4fc8-bf88-5db2b60b8748" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f85690db-5983-48ea-9dfa-9df91e8192cf" />
 <br />
 <br />
 Observe changes:  <br/>
@@ -27,17 +27,26 @@ Observe changes:  <br/>
 
 <h2>Routing unassigned tickets (Users)</h2>
 
+On the home page, navigate to Incident > Open - Unassigned:  <br/>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b88f3506-7d4c-4133-99be-c16f6bc39544" />
+<br />
+<br />
+Incidents > Filter > Assignment group > Help Desk (this filters out all tickets not in the helpdesk assignment group):  <br/>
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b38301e6-7c4b-45aa-b5cb-450b7ffde656" />
+<br />
+<br />
+Select the ticket you wish to assign to a person:  <br/>
 <img width="1597" height="223" alt="image" src="https://github.com/user-attachments/assets/3fc8012d-bae4-4b7b-a61f-9226c12e801e" />
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
+Assign the ticket to a person:  <br/>
 <img width="1601" height="498" alt="image" src="https://github.com/user-attachments/assets/ecdad5ab-129f-4ad6-bdca-734fe30dc0f3" />
 <br />
 <br />
-Sanitization complete:  <br/>
+Save:  <br/>
 <img width="1600" height="439" alt="image" src="https://github.com/user-attachments/assets/854530d1-4b62-4d49-9a54-5ced6d7f1423" />
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img width="1597" height="240" alt="image" src="https://github.com/user-attachments/assets/93dc166d-a54b-4296-a240-f6b5ab8e0a81" />
+Observe changes:  <br/>
+<img width="1366" height="684" alt="image" src="https://github.com/user-attachments/assets/6d9256fa-f26e-444b-a6ff-1cc972d47b81" />
 </p>

@@ -7,22 +7,23 @@ Step-by-step guide for creating and Resolving troubled tickets.
 <p>
 <h2>creating ticket</h2>
 
-<img width="1596" height="233" alt="image" src="https://github.com/user-attachments/assets/30ec833d-df80-4659-ac23-1e14080b972b" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d6f344fc-7174-4027-b09a-21c2bf1106cf" />
 <br />
 <br />
-<img width="1597" height="223" alt="image" src="https://github.com/user-attachments/assets/3fc8012d-bae4-4b7b-a61f-9226c12e801e" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c12eb827-0a9e-48c2-8dcc-425f57812a3b" />
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
-<img width="1601" height="237" alt="image" src="https://github.com/user-attachments/assets/6267693f-460d-4bc0-8d3b-bb9e56884d78" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ed64743c-7fb8-4994-bcb6-b12f6547ebda" />
 <br />
 <br />
 Sanitization complete:  <br/>
-<img width="1600" height="439" alt="image" src="https://github.com/user-attachments/assets/854530d1-4b62-4d49-9a54-5ced6d7f1423" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e942800d-8c49-461d-b752-29de07c54095" />
 <br />
 <br />
 Observe new ticket:  <br/>
-<img width="1597" height="240" alt="image" src="https://github.com/user-attachments/assets/93dc166d-a54b-4296-a240-f6b5ab8e0a81" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/05e65130-2aca-495c-b6db-f30abe88177e" />
 
 <h2>resolving tickets</h2>
 

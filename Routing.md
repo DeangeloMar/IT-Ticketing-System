@@ -39,7 +39,7 @@ Select the ticket you wish to assign to a person:  <br/>
 <img width="1597" height="223" alt="image" src="https://github.com/user-attachments/assets/3fc8012d-bae4-4b7b-a61f-9226c12e801e" />
 <br />
 <br />
-Assign the ticket to a person:  <br/>
+Set the Assigned to field to the appropriate person:  <br/>
 <img width="1601" height="498" alt="image" src="https://github.com/user-attachments/assets/ecdad5ab-129f-4ad6-bdca-734fe30dc0f3" />
 <br />
 <br />

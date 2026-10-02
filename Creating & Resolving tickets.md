@@ -26,15 +26,15 @@ Confirm the new ticket appears in the incident list:  <br/>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/05e65130-2aca-495c-b6db-f30abe88177e" />
 
 <h2>resolving tickets</h2>
-Select the ticket you want to resolve
+Select the ticket you want to resolve:  <br/>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/05426e9c-7edb-4960-8285-25d99b4fdc5b" />
 <br />
 <br />
-Scroll down and open the Resolution Information tab
+Scroll down and open the Resolution Information tab:  <br/>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8340e697-b2e0-4864-be52-bcfed8bdacf4" />
 <br />
 <br />
-Document how the issue was resolved in the required fields
+Document how the issue was resolved in the required fields, then save the ticket:  <br/>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/df714311-4f55-4210-a583-e351fb9c37b8" />
 <br />
 <br />

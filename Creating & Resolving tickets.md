@@ -6,35 +6,35 @@ Step-by-step guide for creating and Resolving troubled tickets.
 
 <p>
 <h2>creating ticket</h2>
-From the service now homepage, navigate to incidents then under incidents select assigned to me:
+From the ServiceNow homepage, navigate to Incidents, then select Assigned to me:  <br/>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d6f344fc-7174-4027-b09a-21c2bf1106cf" />
 <br />
 <br />
-slect new on the top right
+Click New in the top right corner:  <br/>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c12eb827-0a9e-48c2-8dcc-425f57812a3b" />
 <br />
 <br />
-fill the ticket with the appropriate infomation:  <br/>
+Complete the incident form with the appropriate information:  <br/>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ed64743c-7fb8-4994-bcb6-b12f6547ebda" />
 <br />
 <br />
-now slect update on the top right:  <br/>
+Click Update in the top right corner to save the ticket:  <br/>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e942800d-8c49-461d-b752-29de07c54095" />
 <br />
 <br />
-Observe new ticket:  <br/>
+Confirm the new ticket appears in the incident list:  <br/>
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/05e65130-2aca-495c-b6db-f30abe88177e" />
 
 <h2>resolving tickets</h2>
-slect the ticket you wish to solve (Bow Ruggeri)
+Select the ticket you want to resolve
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/05426e9c-7edb-4960-8285-25d99b4fdc5b" />
 <br />
 <br />
-scoll down and select the resolution information tab
+Scroll down and open the Resolution Information tab
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8340e697-b2e0-4864-be52-bcfed8bdacf4" />
 <br />
 <br />
-fill in with the appropriate infoirmation (how you fixed the problem)
+Document how the issue was resolved in the required fields
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/df714311-4f55-4210-a583-e351fb9c37b8" />
 <br />
 <br />
